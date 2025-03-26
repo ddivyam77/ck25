@@ -1,8 +1,6 @@
-# ck25
-ynr
-hgmhhgfgngfnnbfbnfn
-jfigfkghjfhguieduieui
-	Project Title
-	Brief Description of the Project
-	How to Clone the Repository
-	Instructions on how to run or use the project (even if it's a simple text file)
+<html>
+<head>CK25</HEAD>
+<BODY>
+<DIV><ul><li>its is for pratical for scm</li></ul></div>
+</body>
+</html>
